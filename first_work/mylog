@@ -1,0 +1,333 @@
+2025-09-30 14:37:26,185 - modelscope - WARNING - Reusing dataset dataset_builder (/home/neulab/.cache/modelscope/hub/datasets/iic/WMT-Chinese-to-English-Machine-Translation-newstest/master/data_files)
+2025-09-30 14:37:26,185 - modelscope - INFO - Generating dataset dataset_builder (/home/neulab/.cache/modelscope/hub/datasets/iic/WMT-Chinese-to-English-Machine-Translation-newstest/master/data_files)
+2025-09-30 14:37:26,185 - modelscope - INFO - Reusing cached meta-data file: /home/neulab/.cache/modelscope/hub/datasets/iic/WMT-Chinese-to-English-Machine-Translation-newstest/master/data_files/d7e729c049b6824d6111e90d7cc34241
+Qwen2-0.5B-Instruct模型本地推理与效果评估
+============================================================
+CUDA可用: True
+GPU: NVIDIA GeForce RTX 2080 Ti
+正在从ModelScope加载WMT中英机器翻译测试集...
+`torch_dtype` is deprecated! Use `dtype` instead!
+限制测试样本数量为 50 个
+成功加载 50 条WMT测试数据
+正在加载Qwen2-0.5B-Instruct模型...
+模型加载完成
+开始翻译推理...
+0it [00:00, ?it/s]1it [00:00,  1.02it/s]2it [00:01,  1.74it/s]3it [00:01,  2.02it/s]4it [00:02,  1.23it/s]5it [00:09,  2.85s/it]6it [00:10,  2.14s/it]7it [00:10,  1.58s/it]8it [00:17,  3.12s/it]9it [00:18,  2.73s/it]10it [00:25,  3.85s/it]11it [00:26,  3.14s/it]12it [00:27,  2.35s/it]13it [00:27,  1.80s/it]14it [00:30,  2.12s/it]15it [00:35,  2.85s/it]翻译进度: 1/50
+中文: 声明补充说，沃伦的同事都深感震惊，并且希望他能够投案自首。
+参考翻译: The statement added that Warren's colleagues were shocked and want him to turn himself in.
+模型翻译: A statement released by the company said that all colleagues at Warren’s office were shocked and hoped he would confess to a criminal investigation.
+推理时间: 0.98秒
+--------------------------------------------------
+翻译进度: 2/50
+中文: 不光改变硬件，软件也要跟上
+参考翻译: We should not only change the hardware, but the software must also keep up.
+模型翻译: Not only hardware but also software must catch up.
+推理时间: 0.29秒
+--------------------------------------------------
+翻译进度: 3/50
+中文: “这不是我们习以为常的、可以称之为典型的谋杀事件。”
+参考翻译: "'This isn't the type of murder that we've become used to and can call typical.'
+模型翻译: "This is not a typical murder case that we are accustomed to."
+推理时间: 0.40秒
+--------------------------------------------------
+翻译进度: 4/50
+中文: *本文来自华尔街见闻（微信ID：wallstreetcn），编辑王穆。更多精彩资讯请登陆wallstreetcn.com，或下载华尔街见闻APP。*
+参考翻译: *This article is taken from Wallstreetcn (WeChat ID: wallstreetcn), editor Wang Mu. For more exciting information, visit wallstreetcn.com or download the Wallstreetcn APP. *
+模型翻译: *This article originally appeared on the Wall Street Journal's Facebook page (ID: wallstreetcn). Read more about this story here. *For more information, please go to the Wall Street Journal's Facebook page or download the Wall Street Journal App.
+推理时间: 1.30秒
+--------------------------------------------------
+翻译进度: 5/50
+中文: 我们还能做什么？”
+参考翻译: "What else could we do?"
+模型翻译: What else can we do?
+推理时间: 6.47秒
+--------------------------------------------------
+翻译进度: 6/50
+中文: 加方支持自由贸易，愿同中方共同推动全球化和自由贸易，为全球可持续发展作出贡献。
+参考翻译: Canada supports free trade and is ready to work with China to promote globalization and free trade and make its contribution to the sustainable development of the world.
+模型翻译: China supports free trade and wants to work with the West together to promote globalization and free trade, which will contribute to sustainable development around the world.
+推理时间: 0.77秒
+--------------------------------------------------
+翻译进度: 7/50
+中文: 已经协助一万多名游客安全回国
+参考翻译: to help more than 10,000 tourists return home safely.
+模型翻译: Assisted over 10,000 visitors safely back home.
+推理时间: 0.43秒
+--------------------------------------------------
+翻译进度: 8/50
+中文: 军事战略方针，强化使命担当，强化改革创新，强化工作落实，全面提高新时代备战打仗能力，为实现两个一百年奋斗目标
+参考翻译: strengthening the armed forces in the new era, implement the military strategic principles in new situations, strengthen the responsibilities of missions, strengthen the reforms and innovations, strengthen the implementation of work, and comprehensively improving the ability to prepare for the war in the new era, providing strategic support for achieving the two hundred-year goals and
+模型翻译: Strategic Strategy, Strengthening the Mission Responsibility, Improving Innovation and Implementation, Improving Effort and Execution, and全面提升新时代的备战打仗能力。 To achieve both the two-hundred-year target of building a strong military and the achievement of achieving socialism with Chinese characteristics. As well as to realize the national development goals. The Armed Forces will continue to lead in various fields, improve and adapt its combat equipment and training methods, work hard at improving work efficiency and execution, and take full advantage of all available resources to ensure that they can fully meet the requirements for modernization and development. We will also maintain a good balance between the needs of people and the demands of technology, ensuring that our efforts are not only aimed at enhancing the capabilities of the armed forces but also to enhance the quality of life for citizens.
+推理时间: 6.42秒
+--------------------------------------------------
+翻译进度: 9/50
+中文: 企业的主要任务和责任担当；
+参考翻译: As for the main tasks and responsibilities of enterprises
+模型翻译: The main tasks and responsibilities of the enterprise.
+推理时间: 1.86秒
+--------------------------------------------------
+翻译进度: 10/50
+中文: 让各种文明和谐共存。
+参考翻译: and allow all civilizations to coexist harmoniously.
+模型翻译: Let all civilizations live in peace.
+推理时间: 6.35秒
+--------------------------------------------------
+翻译进度: 11/50
+中文: 瓦尔迪兹被杀的第二天，在与锡那罗州州长的会面中，拉米雷斯控诉官方刺探记者信息，并因为他们说出了事实而将他们杀害。
+参考翻译: At a meeting with the governor of Sinaloa the day after Valdez was killed, Ramirez accused authorities of spying on journalists and having them killed for telling the truth.
+模型翻译: On the day of the murder of Walid Zayed, in his meeting with Governor Shinnecock, Ramírez accused the government of espionage and killed them for revealing what they said.
+推理时间: 1.53秒
+--------------------------------------------------
+翻译进度: 12/50
+中文: “这采用的是平衡原理，所以当你推门时，就很容易滑动。”
+参考翻译: "It's counter-weighted so that when you push the door up, it glides really easily."
+模型翻译: "This is a principle of balance, so it's easy to slide when you open the door."
+推理时间: 0.54秒
+--------------------------------------------------
+翻译进度: 13/50
+中文: 记者们去山区已经几个月了，那里的贩毒集团处于实际存在的控制之下。
+参考翻译: It has been months since the reporters have gone into the mountainous countryside, where the drug gangs are in de facto control.
+模型翻译: The drug cartels are under control in the mountain areas where reporters have been covering them for months.
+推理时间: 0.53秒
+--------------------------------------------------
+翻译进度: 14/50
+中文: 剧情中加倍运用核心笑梗 - 中年演员扮演正值捣蛋年纪的孩子 - 这使得无法重新回到过去也成为了搞笑的一部分。
+参考翻译: By doubling down on the core gag - middle-age actors playing horny kids coming of age - it made the impossibility of recapturing the past part of the joke.
+模型翻译: The comedic punchline is the main punch in the movie. Actors who play adults that are at their most childish age become an integral part of the comedy. This makes it a funny part even if you can't go back to your own time.
+推理时间: 2.86秒
+--------------------------------------------------
+翻译进度: 15/50
+中文: 前几天刚刚进行过右耳手术的杨洋，伤愈后首度现身，他解读自己的角色是“喜怒不形于色”，始终为白浅默默付出，将所有感情都藏在心底。
+参考翻译: Yang Yang, who underwent surgery on his right ear just a few days ago, made an appearance for the first time after his recuperation. He interpreted his character as someone who “does not wear his heart on his sleeve”, quietly giving his all to Bai Qian, and concealing all his feelings.
+模型翻译: After having undergone right ear surgery just a few days ago, Panyang returned to the spotlight. He interpreted his role as "not displaying emotion in color" and remained silent for White Sheng, always supporting her without any emotions hidden inside.
+推理时间: 4.53秒
+--------------------------------------------------
+翻译进度: 16/50
+中文: 柬方始终给予中方坚定支持
+参考翻译: Cambodia has always given China strong support.
+模型翻译: Cambodia continues to provide strong support for China.16it [00:35,  2.08s/it]17it [00:39,  2.51s/it]18it [00:45,  3.69s/it]19it [00:51,  4.48s/it]20it [00:58,  5.04s/it]21it [01:04,  5.44s/it]22it [01:04,  3.86s/it]23it [01:04,  2.76s/it]24it [01:11,  3.81s/it]25it [01:12,  3.18s/it]26it [01:13,  2.42s/it]
+推理时间: 0.29秒
+--------------------------------------------------
+翻译进度: 17/50
+中文: 老家位于英格兰、但最近生活在北京的西蒙·诺顿在个人博客网站4Corners7Seas上发表文章说：“人们总体上有一种处于某种宏大事物中心的感觉，这种感觉很难说清楚，但它让许多外国人长久留在那里。他们想看看它会变成什么样，并且希望亲眼见证。”
+参考翻译: Simon Norton, who originates from England had been living in Beijing in recent years, published an article on personal blog site 4Corners7Seas saying: “People generally have a feeling of being at the center of something grand. Although this feeling is hard to describe clearly, it is the reason why so many foreigners stay there for a long time. They want to see what it will become and hope to witness it. ”
+模型翻译: Somewhere in the UK, Simon Northon, who is now based in Beijing, has posted a blog post on his personal website 4Corners7Seas saying: "People generally feel that there's some grand center for something to be, and it can be hard to say precisely what it means. But they often stay long enough to see how it will turn out." He hopes to witness firsthand what the country looks like.
+推理时间: 3.53秒
+--------------------------------------------------
+翻译进度: 18/50
+中文: 大会提出了习近平新时代中国特色社会主义思想，提出了一系列符合中国实际的重大战略举措，不仅为中国的发展指明了方向
+参考翻译: The congress has proposed Xi Jinping Thought on Socialism with Chinese Characteristics for a New Era and set forth a series of important strategic measures that accord with China's reality. It has not only given a specific direction for development of China
+模型翻译: The Conference proposed the Chinese Communist Party’s New Era Thought, which is in line with China’s actual circumstances and has laid down a series of major strategic measures that not only pointed the way for China’s development.
+推理时间: 6.43秒
+--------------------------------------------------
+翻译进度: 19/50
+中文: 服务行业引入评价机制早已不是新鲜事，要想使评价机制发挥实效，重要的是让监管更有效，不流于形式。
+参考翻译: Appraisal mechanisms in the services sector are nothing new. The key to having these appraisal mechanisms play an effective role is to have more effective supervision, rather than being a mere formality.
+模型翻译: Service industries are already using mechanisms for evaluation and, in order to make them effective, it is important to make the regulatory more effective. Not just to be formal about it but to do so without flouting its principles.
+推理时间: 6.32秒
+--------------------------------------------------
+翻译进度: 20/50
+中文: 今天17时10分，邵阳市119指挥中心接到报警，位于该市双清区龙须塘的宏志化工厂储存的四氢呋喃发生火灾。
+参考翻译: At 17:10 today, the 119 command center at Shaoyang received an emergency call. Tetrahydrofuran stored at Hongzhi Chemical Plant at Longxutang, Shuangxi District, caught fire.
+模型翻译: Today at 17:10, the 119 Command Center of Shangyu City received a call reporting that the storage facility at Xingzhao Town in Huangguoshu District was on fire.
+推理时间: 6.33秒
+--------------------------------------------------
+翻译进度: 21/50
+中文: 居民们强调，在污染往往较轻的温暖月份里到户外活动很重要，要把那些蓝天日当作在历史悠久的胡同里徜徉或是探索备受欢迎的日坛公园的机会。
+参考翻译: Residents emphasize that outdoor activities are very important in warm months when pollution is often light. It is important to consider those blue sky days as opportunities for rambling in ancient encryptors or exploring the popular Ritan Park.
+模型翻译: Residents say that in warmer months, when air quality is often mild, it’s important to get outdoors more. They encourage people to take advantage of those blue skies and day as an opportunity to wander around the historic streets or explore popular parks like the Imperial Park.
+推理时间: 6.37秒
+--------------------------------------------------
+翻译进度: 22/50
+中文: “那是他的指纹！
+参考翻译: "That's his thumbprint!
+模型翻译: "That's his fingerprint!"
+推理时间: 0.19秒
+--------------------------------------------------
+翻译进度: 23/50
+中文: 重在推广
+参考翻译: Emphasis on promotion
+模型翻译: The focus is on promoting.
+推理时间: 0.18秒
+--------------------------------------------------
+翻译进度: 24/50
+中文: 本台消息，中央军委办公厅日前印发《关于认真组织学习习近平谈治国理政第二卷的通知》。
+参考翻译: The General Office of the Central Military Commission recently printed and issued the Notice on Carefully Organizing and Learning Xi Jinping's Speech on the Governance of China, Volume II.
+模型翻译: In a letter to the Central Military Commission, the Central Military Commission recently issued the following notice: "On October 12, the Central Military Commission will organize an instruction meeting on the second volume of 'The Art of Governance', which is the core text of President Xi Jinping's leadership. This is a very important document for the people of all ethnic groups in China." The instruction meeting is intended to provide guidance and support for the implementation of the policy. It also provides a platform for discussion about how to implement this policy in practice. The instruction meeting has been arranged by the General Secretary of the Central Military Commission, Xi Jinping, in coordination with the Chinese People's Political Consultative Conference (CPPC). In addition, it has been coordinated with other relevant departments and units in the military, such as the People's Liberation Army Security Department and the National Defense Command Centre.
+推理时间: 6.28秒
+--------------------------------------------------
+翻译进度: 25/50
+中文: 此外，这个展览也有另一层深意。因为当代美国，特朗普政府不断地对政府泄密者和变性军人宣战，同时寻找新的、可以在推特上炒作的方式，来赤裸裸地煽动分裂，而这个展览正是要弥合这样的分裂。
+参考翻译: There's also something profound and powerful about the exhibition opening now, as Donald Trump wages war on government leakers and transgender troops while finding new, tweetable ways to further inflame the stark divisions he's been called on to mend.
+模型翻译: In addition, the exhibition also has another layer of meaning. Because in the current US government, Trump administration is constantly attacking whistleblowers and transgender soldiers on social media, as well as finding new ways to make people excited about a new kind of division by spreading lies on Twitter. This exhibition aims to mend this divide between the two sides.
+推理时间: 1.70秒
+--------------------------------------------------
+翻译进度: 26/50
+中文: 在太空当中，我们观测到以前没有观察到观察到的这样一个新的，这个用这个用已有的理论不能进行解释和说明的
+参考翻译: In space, we observe that such a new observation that has not been observed before, which cannot be explained or illustrated by existing theories,
+模型翻译: In space, we observed something that was not observed before - this new phenomenon that cannot be explained and understood by existing theories.
+推理时间: 0.65秒
+--------------------------------------------------
+翻译进度: 27/50
+中文: 据外媒报道，美国当地时间7月19日，好莱坞著名导演加里·马歇尔因肺炎并发症在加州伯班克的一家医院里逝世，享年81岁。
+参考翻译: According to foreign media reports, renowned Hollywood director Garry Marshall passed away on July 19 local time of complications from pneumonia at a hospital in Burbank, California. He was 81 years old.
+模型翻译: According to reports, Hollywood renowned director Gary Marshall died of pneumonia complications in a hospital in California's Bay Area on July 19. He was 81 years old at the time of his death.27it [01:14,  2.01s/it]28it [01:15,  1.75s/it]29it [01:16,  1.58s/it]30it [01:17,  1.21s/it]31it [01:17,  1.06it/s]32it [01:20,  1.55s/it]33it [01:22,  1.70s/it]34it [01:23,  1.43s/it]35it [01:27,  2.13s/it]36it [01:27,  1.67s/it]37it [01:28,  1.31s/it]38it [01:28,  1.03s/it]39it [01:29,  1.11s/it]40it [01:31,  1.29s/it]41it [01:32,  1.13s/it]42it [01:38,  2.71s/it]43it [01:38,  1.95s/it]
+推理时间: 1.04秒
+--------------------------------------------------
+翻译进度: 28/50
+中文: 今年我国将再次发射十余颗北斗卫星，建立由18颗卫星组成的基本系统，为“一带一路”沿线国家及周边国家提供服务。
+参考翻译: This year, China will again launch more than 10 Beidou satellites and establish a basic system consisting of 18 satellites, to provide services for the countries along and around "the Belt and Road”.
+模型翻译: This year, the Chinese will again send out at least 10 satellites with the aim of building a basic system composed of 18 satellites to provide services to “the Belt and Road”沿线国家以及周边国家。
+推理时间: 1.14秒
+--------------------------------------------------
+翻译进度: 29/50
+中文: 也正是要通过改革机制促进创新，为创新主体营造更好的氛围。
+参考翻译: which is precisely for the reform mechanism to promote innovation and create a better atmosphere for the innovation subject.
+模型翻译: The reason why we want to promote innovation through reform mechanisms is to create a better environment for innovators.
+推理时间: 1.20秒
+--------------------------------------------------
+翻译进度: 30/50
+中文: 他表示，“这是一场投票权惨案。”
+参考翻译: "It was a voting rights massacre," he said.
+模型翻译: He stated that it was a vote rights coup. . .
+推理时间: 0.33秒
+--------------------------------------------------
+翻译进度: 31/50
+中文: 格外吸引大家的关注。
+参考翻译: were particularly noteworthy.
+模型翻译: It's very interesting.
+推理时间: 0.33秒
+--------------------------------------------------
+翻译进度: 32/50
+中文: 据也门胡塞武装和前总统萨利赫方面的发言人消息，双方军队二号在首都萨那的交火升级，目前已导致八十人死亡。
+参考翻译: According to a spokesman for the Yemeni Houthis armed forces and former President Saleh, the fighting between the two sides on the 2nd in the capital, Sana, has become more severe. Now, it has resulted in the death of 80 people.
+模型翻译: According to a statement by the Houthis in Yemen and former President Ali Abdullah Saleh, the two sides have launched an operation in the capital of Sanaa, which has already resulted in the death of eighty people.
+推理时间: 2.96秒
+--------------------------------------------------
+翻译进度: 33/50
+中文: 在河北乡村，小马扎宣讲小分队
+参考翻译: In the villages of Hebei Province, campstool propaganda teams composed of more than 36,000 party members and cadres were formed,
+模型翻译: At rural villages in Henan, a small group of volunteers are leading a mini campaign to raise awareness and promote local culture. They engage with locals to spread the message on social media. This is not just a project; it's part of their community-building work that they have been doing for many years. It's great to see such a young team coming together and making a real difference in people's lives.
+推理时间: 2.06秒
+--------------------------------------------------
+翻译进度: 34/50
+中文: 推动构建人类命运共同体的理念和主张，表明了中国共产党把为人类作出新的更大贡献作为自己的使命。
+参考翻译: to promote the construction of a community of a shared vision for mankind and indicated that the Chinese Communist Party has made it its mission to make new and greater contributions to mankind.
+模型翻译: The Chinese Communist Party has put forward the idea and principles of building a human community, which shows that it is its mission to make new contributions for humanity.
+推理时间: 0.79秒
+--------------------------------------------------
+翻译进度: 35/50
+中文: 她的表现手法形象鲜明，扣人心弦，带有一种深刻的种族主义背景。许多人都希望这种种族主义在美国已不复存在。
+参考翻译: Her performance is graphic, gripping and grounded in a kind of deep racism that many would like to believe no longer exists in America.
+模型翻译: Her style is strikingly vivid and powerful, setting a compelling and deeply racist background. Many people hope that this racism in America has long since been eradicated.
+推理时间: 3.77秒
+--------------------------------------------------
+翻译进度: 36/50
+中文: 而“双11”后，紧接着的是与之类似的“双12”打折狂欢、圣诞新年购物档期。
+参考翻译: The “Double 12” discount extravaganza and the Christmas-New Year shopping period come right after “Double 11”.
+模型翻译: And following the “Double 11”， there would be similar discounts and shopping periods for Christmas and New Year.
+推理时间: 0.60秒
+--------------------------------------------------
+翻译进度: 37/50
+中文: 单单去年印尼警方就逮捕了 3,900 多名和平抗议者。
+参考翻译: Indonesian police arrested more than 3,900 peaceful protesters in the region last year alone.
+模型翻译: In the past year alone, Indonesian police arrested 3,900 peaceful protesters.
+推理时间: 0.47秒
+--------------------------------------------------
+翻译进度: 38/50
+中文: 小白鼠在饮食中摄入的色氨酸越多，它们的免疫细胞就越多。
+参考翻译: The more tryptophan the mice had in their diet, the more of these immune cells they had.'
+模型翻译: The more the white mice eat, the more their immune cells are.
+推理时间: 0.38秒
+--------------------------------------------------
+翻译进度: 39/50
+中文: 这种特殊样本的化石遗骸保存非常完好，使残留的皮肤仍然覆盖着恐龙头骨上凹凸不平的甲片。
+参考翻译: The fossilised remains of this particular specimen are so well preserved that remnants of skin still cover bumpy armour plates along the dinosaur's skull.
+模型翻译: This very special fossil remains are preserved in such a good state that the remains of the skull still cover the rough texture of the skull bones on the front side.
+推理时间: 1.29秒
+--------------------------------------------------
+翻译进度: 40/50
+中文: 双方还就共同关心的国际和地区问题交换意见。
+参考翻译: Both sides also exchanged views on international and regional issues of common interest.
+模型翻译: Both sides exchanged views on issues of common concern around the world and in the international community.
+推理时间: 1.72秒
+--------------------------------------------------
+翻译进度: 41/50
+中文: “收集完所有信息后，我们目前只能评估所有指控和形势。”
+参考翻译: "We can only assess all the accusations currently being made after we have gathered all the information and can assess the situation."
+模型翻译: “After gathering all the information, we can only evaluate all charges and circumstances.”
+推理时间: 0.74秒
+--------------------------------------------------
+翻译进度: 42/50
+中文: 2017年1月17日，英国首相特雷莎·梅就英国“脱欧”问题发表演讲时强调，英国与欧盟之间的贸易固然重要，但是英国也更看重与其他世界上快速增长的市场之间的贸易关系。
+参考翻译: On January 17, 2017, UK Prime Minister Theresa May, in a speech on “Brexit”, highlighted that while trade between the UK and the EU was important, the UK was also interested in trade relations with other markets that are growing rapidly in the world.
+模型翻译: On January 17, 2017, Theresa May stressed that the UK’s trade with the EU was very important, but also emphasized that it was more important to have trade relations with other rapidly growing markets.
+推理时间: 6.40秒
+--------------------------------------------------
+翻译进度: 43/50
+中文: 展开猛烈空袭。
+参考翻译: Launched violent air raids.
+模型翻译: Launch a massive aerial attack.
+推理时间: 0.18秒
+--------------------------------------------------
+翻译进度: 44/50
+中文: “怎么了？！，”拉斯科纳问道。
+参考翻译: "What?!," Rascona asked.
+模型翻译: "What's wrong?!" Raskin asked.
+推理时间: 2.13秒44it [01:41,  2.00s/it]45it [01:47,  3.31s/it]46it [01:53,  4.24s/it]47it [02:00,  4.90s/it]48it [02:00,  3.55s/it]49it [02:02,  2.93s/it]50it [02:03,  2.46s/it]50it [02:03,  2.47s/it]
+
+--------------------------------------------------
+翻译进度: 45/50
+中文: 其中，烟花爆竹机械化生产设备和安全环保产品展示将在大瑶镇进行，主要参展项目包括技术成熟、经过相关科技鉴定和安全论证的烟花爆竹生产涉药机械设备，低感度、低爆能等安全型烟火药，无硫、微烟等安全环保型个人燃放产品。
+参考翻译: In particular, the exhibition for mechanized equipment for the production of fireworks and firecrackers as well as safe and eco-friendly products will be held at Dayao Town. Key exhibits include technologically sophisticated mechanical equipment that uses explosive substances to produce fireworks and firecrackers that have been appraised by relevant technology and passed safety verification; low sensitivity, low blast and other safe pyrotechnic compositions; as well as sulfur-free, light smoke and other safe and eco-friendly personal fireworks and firecrackers.
+模型翻译: In this section, fireworks machinery and safety-proof products will be exhibited at the Big Dao town, focusing on major exhibition projects that include technology advanced through scientific and technical appraisal and certification of the production safety of medicinal explosives. Low sensitivity, low explosive power etc. safety-type fireworks products, low-sulfur, low-smoke and so on. Safety-proof personal-wildfire products with no mercury or smoke.
+推理时间: 6.36秒
+--------------------------------------------------
+翻译进度: 46/50
+中文: 理想信念是共产党人的精神之“钙”，必须加强思想政治建设，解决好世界观、人生观、价值观这个“总开关”问题。
+参考翻译: Ideal and belief serve as “calcium” for the spirit of members of the Communist Party, so we must strength ideological and political construction and solve any problem concerning outlook on world, outlook on life and values, which is the “master switch”.
+模型翻译: A sense of belief is the “钙” for the Chinese Communist Party. It must strengthen ideological construction and solve the problem of how to understand, think, and live up to this “general switch”.
+推理时间: 6.42秒
+--------------------------------------------------
+翻译进度: 47/50
+中文: 麦维他公司的所有人普拉迪 (Pladis) 斯表示，过去几年来，公司已经向该工厂投资了 500 多万英镑。
+参考翻译: McVitie's owner Pladis said it had invested more than £5m at the site in the last few years.
+模型翻译: Pladis said that the company had already invested 500,000 pounds in the factory since last year.
+推理时间: 6.42秒
+--------------------------------------------------
+翻译进度: 48/50
+中文: 这将造福中国人民，也将造福世界各国人民。
+参考翻译: This will benefit the Chinese people, and benefit all the peoples of the world as well.
+模型翻译: This will benefit Chinese people as well as people from all over the world.
+推理时间: 0.42秒
+--------------------------------------------------
+翻译进度: 49/50
+中文: 我发现最近自己对米特?罗姆尼版的癫狂古怪有些怀念：把狗在汽车上，14％ 的所得税（但至少我们知道他的纳税申报表），为与特朗普相比，这两个举动的罪行似乎确实太轻微了。
+参考翻译: I find myself actively nostalgic these days for Mitt Romney's quaint version of crazy - the dog on the car roof, the 14% income tax (but at least we knew what his tax return looked like) - both of which, compared to Trump, seem very mild offences indeed.
+模型翻译: I find myself a bit nostalgic for Mitt Romney's insane version of the craziness: that I drive a car on the highway, pay 14% of income tax (which at least we know is lower than what Trump has), and it seems to be a bit too mild.
+推理时间: 1.46秒
+--------------------------------------------------
+翻译进度: 50/50
+中文: 在周六举办的 Showtime 拳赛上，裁判一致认定加西亚打败了四分区世界冠军阿德里安·布罗纳取得胜利，至此，这两位拳手均已成为同重量级榜单前五名的选手。
+参考翻译: After Garcia's victory by unanimous decision over former four-division world champion Adrien Broner on Saturday on Showtime, both fighters are members of the top-five pound-for-pound list.
+模型翻译: At the Saturday show in the UFC 218 fight, judges unanimously agreed that Garcia beat the top four regional champions Adrien Broner to become the fifth and sixth fighters in the division. This marks the completion of Garcia’s quest for a world championship title.
+推理时间: 1.37秒
+--------------------------------------------------
+翻译完成，结果已保存到 translation_results.json
+开始BLEU评估...
+
+============================================================
+评估结果:
+============================================================
+BLEU分数: 8.4462
+BLEU精确度 (1-gram): 39.9285
+BLEU精确度 (2-gram): 13.3907
+BLEU精确度 (3-gram): 5.3866
+BLEU精确度 (4-gram): 1.7670
+长度惩罚: 1.0000
+平均推理时间: 2.4704秒
+评估样本数: 50
+============================================================
+评估结果已保存到 evaluation_results.json
+
+程序执行完成！

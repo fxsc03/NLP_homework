@@ -1,0 +1,492 @@
+[
+  {
+    "id": "1",
+    "chinese": "俄方愿同中方共同努力，将两国关系推向更高水平。",
+    "english_reference": "Russia is willing to work with China and push the bilateral relations to a higher level.",
+    "english_translation": "Russia is ready to work with China to bring the relationship between the two closer.",
+    "inference_time": 0.8210732936859131
+  },
+  {
+    "id": "2",
+    "chinese": "近年来，家长们越来越重视儿童阅读，这是一件好事。",
+    "english_reference": "In recent years, parents have placed increasing emphasis on reading by children. This is good news.",
+    "english_translation": "In recent years, more and more parents have paid attention to children’s reading. This is a good thing.",
+    "inference_time": 0.5890090465545654
+  },
+  {
+    "id": "3",
+    "chinese": "但作为一个系列，这感觉就像时间不够用了。",
+    "english_reference": "But as a franchise, it feels like it's running out of time.",
+    "english_translation": "But this feels like time is running out.",
+    "inference_time": 0.665360689163208
+  },
+  {
+    "id": "4",
+    "chinese": "同年，阿里启动了农村淘宝（村淘）项目，在乡村招募“村小二”，带领农民通过电商脱贫致富。",
+    "english_reference": "In the same year, Alibaba launched the Rural Taobao program, recruiting “village partners” to help lift villagers out of poverty and move toward affluence by way of e-commerce.",
+    "english_translation": "In 2016, Alibaba launched the rural e-commerce (r电商) project in rural areas. It recruited \"local entrepreneurs\" to lead farmers through online commerce and help them to achieve success.",
+    "inference_time": 1.07358980178833
+  },
+  {
+    "id": "5",
+    "chinese": "中国共产党与世界政党高层对话会以构建人类命运共同体、共同建设美好世界政党的责任为主题，来自一百二多个国家的近三百个政党和政治组织的领导人共六百多名中外方代表与会。",
+    "english_reference": "The CPC in Dialogue with World Political Parties High-level Meeting focuses on the responsibility of building a community of shared future for mankind and jointly building beautiful global political parties. Leaders of nearly 300 political parties and political organizations in over 120 countries, altogether more than 600 Chinese and foreign representatives, attended the meeting.",
+    "english_translation": "The 16th Party Central Committee Meeting on the Responsibility to Build a Shared Future of Humanity and Construct a美好的世界政党的责任的主题会议于2023年7月在中国北京召开。该会议由中国共产党中央委员会和国家主席习近平主持，来自一百二个国家的近三百个政党和政治组织的领导人共六百多名中外方代表出席。会议期间，会议主办方还发布了《2022年北京-上海-杭州中欧班列全球物流发展报告》。这是首次公开发布关于中欧班列的详细数据，为了解决中欧班列运输效率低下的问题提供了参考。此外，《报告》显示了中欧班列全年运营时间长达240天以上，这大大提高了中欧班列的运行效率，也为解决中欧班列运输成本高的问题提供了可能。最后，《报告》还展示了中欧班列货物运量增长的趋势，并分析了中欧班列未来几年内可能出现的变化。它预计到2025年，中欧班列将从目前的每日约300万箱货物增加至800万箱。报告还指出，中欧班列将成为推动全球供应链现代化的重要力量。",
+    "inference_time": 6.484602689743042
+  },
+  {
+    "id": "6",
+    "chinese": "2016年5月，华为指控三星侵权，在加州北区法院和深圳中级人民法院对三星提起诉讼",
+    "english_reference": "In May 2016, Huawei accused Samsung of infringement and filed a lawsuit against Samsung in the Northern District Court of California and Shenzhen Intermediate People's Court.",
+    "english_translation": "In May 2016, Huawei filed a lawsuit against Samsung over alleged infringement in the US District Court for Central California and the Shenzhen Intermediate People's Court.",
+    "inference_time": 0.8764417171478271
+  },
+  {
+    "id": "7",
+    "chinese": "在茅台的带动下，白酒类上市公司纷纷开启提价控货节奏，坐享消费升级带来的红利。",
+    "english_reference": "Driven by Moutai, listed baijiu companies began to introduce price hikes and control supply, enjoying the dividend brought about by consumption upgrading.",
+    "english_translation": "Under the influence of茅台，China's high-end spirits companies are setting off the pace to increase prices and enjoy the benefits of consumption-driven消费升级.",
+    "inference_time": 0.7541699409484863
+  },
+  {
+    "id": "8",
+    "chinese": "十二月一号，中共中央总书记、国家主席习近平在中国共产党与世界政党高层对话会开幕式上发表主旨讲话指出",
+    "english_reference": "On December 1, the General Secretary of the Central Committee of the Communist Party of China and President Xi Jinping made a keynote speech at the opening ceremony fior the high-level dialog between the Chinese Communist Party and world political parties and he pointed out that",
+    "english_translation": "On December 1, the Communist Party of China’s Central Committee Chairman Xi Jinping delivered a keynote speech at the opening ceremony of the high-level dialogue between the Chinese Communist Party and world political parties.",
+    "inference_time": 1.0215988159179688
+  },
+  {
+    "id": "9",
+    "chinese": "随后，习近平听取了全军练兵备战工作汇报，并发表重要讲话。",
+    "english_reference": "Then, Xi Jinping listened to a work report about troop training and war preparation of the whole army and delivered a keynote speech.",
+    "english_translation": "Then, Xi made a speech at the meeting and gave a key address.",
+    "inference_time": 2.749582052230835
+  },
+  {
+    "id": "10",
+    "chinese": "其采用全金属机身，蓝宝石表镜（Sport版为Ion-X玻璃），可支持IPX7级别的生活防水，内置心率计，采用无线充电技术。",
+    "english_reference": "With a stainless steel case, sapphire crystal glass panel (Ion-X glass for its sports model), it supports an IPX7 rating for water resistance. The watch comes with an in-built heart rate monitor, and uses wireless charging technology.",
+    "english_translation": "It features a full metal frame and blue宝石表镜（sport models feature Ion-X glass for waterproofing against IPX7), it also supports life waterproofing. It includes a heart rate monitor, with wireless charging technology built-in.",
+    "inference_time": 2.2347452640533447
+  },
+  {
+    "id": "11",
+    "chinese": "埃尔凡表示，“材料都是你亲自挑选，因此有助于在家中创建情感纽带。”",
+    "english_reference": "\"The materials are the things that you touch and therefore help to create an emotional bond in a home,\" says Erfan.",
+    "english_translation": "Elvina says, \"The materials are your own and therefore help create emotional bonds in the home.\"",
+    "inference_time": 3.878476858139038
+  },
+  {
+    "id": "12",
+    "chinese": "习惯，可能有些游客确实是想着把纸要揣回去，但是另一方面我们也要反思",
+    "english_reference": "habits. Some tourists may indeed think of taking the paper back, but on the other hand, we must reflect on this situation.",
+    "english_translation": "Tolerance, however, may be some tourists who want to keep the paper and go back with it, but we also need to reflect on it.",
+    "inference_time": 6.398045539855957
+  },
+  {
+    "id": "13",
+    "chinese": "中国始终尊重柬埔寨的主权和独立，坚定支持柬埔寨走符合本国国情的发展道路。",
+    "english_reference": "China has always respected the sovereignty and independence of Cambodia, and firmly supports the path of development taken by Cambodia which is compatible to the national conditions of the country.",
+    "english_translation": "China always respects Cambodia's sovereignty and independence, and firmly supports Cambodia to follow its own development path.",
+    "inference_time": 0.5340449810028076
+  },
+  {
+    "id": "14",
+    "chinese": "这是一起恐怖袭击。",
+    "english_reference": "This is a terrorist attack.",
+    "english_translation": "This is a terror attack.",
+    "inference_time": 0.1822807788848877
+  },
+  {
+    "id": "15",
+    "chinese": "欧足联正虎视眈眈盯着那些试图通过与俱乐部所有者挂钩来增加收入,欺瞒金融监管机构的俱乐部。",
+    "english_reference": "UEFA is on the lookout for clubs who might try to outwit its financial regulators by inflating their income through companies linked to a club's owners.",
+    "english_translation": "The European Football Union is watching closely at a time when many football clubs are seeking to increase their income by tying up with owners who can be seen as hiding the truth from financial regulators.",
+    "inference_time": 1.0226590633392334
+  },
+  {
+    "id": "16",
+    "chinese": "西弗吉尼亚州州长宣布换党",
+    "english_reference": "West Virginia governor announces he's switching parties",
+    "english_translation": "Virginia Governor Announces Change of Party.",
+    "inference_time": 0.7685606479644775
+  },
+  {
+    "id": "17",
+    "chinese": "其中探明五点二亿吨原油储量",
+    "english_reference": "Among which, 520 million tons of reserves are proved to be crude oil.",
+    "english_translation": "Among the five trillion barrels of oil discovered.",
+    "inference_time": 0.2595486640930176
+  },
+  {
+    "id": "18",
+    "chinese": "恩格斯指出：没有哪一次巨大的历史灾难，不以历史的进步作为补偿的。",
+    "english_reference": "Friedrich Engels pointed out that none of great historical disasters is not compensated by historical progress.",
+    "english_translation": "Engels pointed out that there has never been a major historical disaster without the compensation of progress in history.",
+    "inference_time": 4.858450651168823
+  },
+  {
+    "id": "19",
+    "chinese": "这不仅仅是简单的固定角度曲面电视，而是为用户打造了一个允许自己根据位置调整曲率的复杂装置！",
+    "english_reference": "This is not merely a simple fixed angle curved screen TV, but a complex device that allows the user to adjust the curvature according to the user’s position!",
+    "english_translation": "This is not just a simple fixed angle TV, but an advanced device that allows users to adjust the curve based on their position!",
+    "inference_time": 0.6813545227050781
+  },
+  {
+    "id": "20",
+    "chinese": "一些西米德兰兹地区最富有的业主与意志坚定的房车客再次发生争执，这些房车客就一条政府开掘的沟渠进行协商，要求归还豪宅之外的土地。",
+    "english_reference": "Some of the West Midlands' wealthiest homeowners are again at loggerheads with determined travellers who have negotiated a council-dug trench to reclaim a field outside their mansions.",
+    "english_translation": "Some wealthy owners in the West Midlands region have again engaged in a bitter dispute with those who insist on taking back land from the government dug out by a canal, insisting that it should be returned to them. These are the owners of luxury homes in the region who want to keep their property. They demand it back.",
+    "inference_time": 1.6190595626831055
+  },
+  {
+    "id": "21",
+    "chinese": "各类机构或委托第三方机构均不得通过暴力、恐吓、侮辱、诽谤、骚扰等方式",
+    "english_reference": "Neither agencies nor entrusted third-party agencies may collect loans through violence, intimidation, humiliation,",
+    "english_translation": "All institutions or third-party organizations shall not use violence, threats,侮辱、诽谤、骚扰等手段",
+    "inference_time": 0.5717790126800537
+  },
+  {
+    "id": "22",
+    "chinese": "在金华桥至新三条石桥之间的两侧河岸绿地中还铺设了约1500米的塑胶甬道，甬道上注有距离标志。",
+    "english_reference": "Plastic paved pathways of approximately 1,500 meters with distance markers have been built in the green open space on both sides of the river bank between Jinhua Bridge and Xinsantiao Stone Bridge.",
+    "english_translation": "The 2.5 kilometers long pedestrian path between Xinghai Bridge and Three Rong Bridge along the two banks of the river also was laid out on both sides of the green area around the two bridges. The pathway has been painted with distance markers.",
+    "inference_time": 4.096881151199341
+  },
+  {
+    "id": "23",
+    "chinese": "西甲可能会后悔对马尔科·维拉蒂抛出橄榄枝",
+    "english_reference": "La Liga side may rue their interest in Marco Verratti",
+    "english_translation": "And maybe the La Liga will regret its decision to throw out a loan deal for Marco Verratti.",
+    "inference_time": 0.5664262771606445
+  },
+  {
+    "id": "24",
+    "chinese": "但是，在我们担心房地产价格，担心宏观经济调控，担心房地产市场未来走势的时候，《人民日报》再次撰文了，上次我们专门论述了《人民日报》评论对于房地产调控的定调，而现在《人民日报》撰文论述的却是一个比买不买得起房更为严重的话题，这就是即使你买得起房，还得起债吗？",
+    "english_reference": "However, just when we were worried about real estate prices, macroeconomic controls and the future trend of the real estate market, the People's Daily published an important commentary once again. Last time we discussed how People’s Daily had set the tone for the regulation of real estate market through a commentary. This time, the commentary of People's Daily deals with a topic that is more serious than the affordability of housing: can you repay the loan even if you can afford the down payment of a mortgage?",
+    "english_translation": "But in our anxiety about housing prices, the need for macroeconomic control, and the worry about the future trends of the real estate market, the People’s Daily has again published a commentary on the editorial tone of the人民日报，which focused on the tone that the人民日报评论文章对房地产调控的定调。 Now the commentary is even more severe than before: you can’t buy your own house, but you have to pay off debt. The problem is that this topic is not only a concern for those who want to buy houses, but also a concern for people with mortgages, especially those who have already bought their houses.",
+    "inference_time": 3.175173044204712
+  },
+  {
+    "id": "25",
+    "chinese": "三星同时也展示了“数字驾驶舱”，就算驾驶人不是车主，也可以让车辆更具个人化特色，因这套系统可以让用户从移动设备及云端下载驾驶人的资料。",
+    "english_reference": "Samsung also exhibited a “digital cockpit”, which allows a car to adapt to the personalized characteristics of the driver even if he or she is not the car owner by accessing the user’s information from mobile devices and cloud.",
+    "english_translation": "Samsung also unveiled \"Personalized Driving Environment\" and showed users that they can personalize the vehicle’s features even if they are not the owner, thanks to the system which allows drivers to download their personal data from mobile devices and the cloud.",
+    "inference_time": 1.2143659591674805
+  },
+  {
+    "id": "26",
+    "chinese": "奥巴马在任时做出了要求各州遏制引起烟雾的各类排放的规定，15 个州因为该项规定对美国国家环境保护局进行起诉。起诉一天后，EPA 推翻了该项规定。",
+    "english_reference": "The U.S. Environmental Protection Agency reversed a decision to delay an Obama-era rule requiring states to curb smog-causing emissions, one day after 15 states sued the agency over the move.",
+    "english_translation": "After Barack Obama was in office, he imposed requirements on states to control emissions of particulate matter (PM), and a dozen states sued the Environmental Protection Agency for its refusal. The suit was overturned later that day. EPA backed down from its previous position.",
+    "inference_time": 3.6312899589538574
+  },
+  {
+    "id": "27",
+    "chinese": "感谢巴方对中国在巴企业和公民提供的安全保障",
+    "english_reference": "We thank Pakistan for its security guarantee provided to Chinese enterprises and citizens in Pakistan.",
+    "english_translation": "Thanks to China's security for the businesses and people in Palestine.",
+    "inference_time": 0.36547088623046875
+  },
+  {
+    "id": "28",
+    "chinese": "在中国大陆地区的独家全媒体版权。",
+    "english_reference": "an exclusive full-media copyright of FIFA events in Chinese mainland in 2018-2022.",
+    "english_translation": "Exclusive Chinese media ownership in the region.",
+    "inference_time": 0.24073243141174316
+  },
+  {
+    "id": "29",
+    "chinese": "在这个重要的关口，可视化大数据网站HowMuch.net制作了一份图谱，展现比特币在全球各国的合法性地位和受监管程度。",
+    "english_reference": "At this important juncture, HowMuch.net, a visualization big data website, produced a map showing the legitimacy of Bitcoin and regulation measure in place in countries around the world.",
+    "english_translation": "At this critical juncture, How Much Network has created a graph to illustrate the global legitimacy and regulation of Bitcoin in countries.",
+    "inference_time": 0.685333251953125
+  },
+  {
+    "id": "30",
+    "chinese": "廋肉、奶制品和巧克力是否有助于缓解炎症性肠病 (IBD) ？",
+    "english_reference": "Red meat, dairy, and chocolate could help relieve IBD",
+    "english_translation": "Is Lean Meat, Milk Products And Chocolate Helpful In Managing IBD?",
+    "inference_time": 0.3815631866455078
+  },
+  {
+    "id": "31",
+    "chinese": "关于利率，该行反复重申需要“一定的货币政策紧缩”来镇压通货膨胀，而且需要以比市场期望的“更大的程度”。",
+    "english_reference": "On rates, it reiterated that \"some tightening of monetary policy\" would be needed to cool inflation and by a \"somewhat greater\" extent than markets expect.",
+    "english_translation": "About interest rates, the bank repeatedly emphasizes the need for “some monetary policy tightening” to stifle inflation and needs a greater degree of that than the market expects.",
+    "inference_time": 6.395161151885986
+  },
+  {
+    "id": "32",
+    "chinese": "受世界经济整体复苏、全球贸易增速加快等因素影响，新出口订单指数和进口指数均连续两个月提升，12月份为51.9%和51.2%，分别比上月上升1.1个和0.2个百分点。",
+    "english_reference": "Influenced by the factors such as the overall recovery of the world economy and the accelerated growth of the global trade, both of the new export and import order indexes rose for 2 consecutive months, with 51.9% and 51.2% in December, up 1.1% and 0.2% respectively.",
+    "english_translation": "With the overall recovery of world economic growth, global trade expansion and a higher pace of expansion, new export order index and import order index both improved by 2.4 percentage points in November and December respectively, up from 51.7% and 51.3%, respectively, compared with the same period last year.",
+    "inference_time": 6.522089719772339
+  },
+  {
+    "id": "33",
+    "chinese": "该技术与猫狗芯片植入类似，且只需 30 秒。",
+    "english_reference": "The technology is similar to a microchip implanted for cats and dogs, and takes just 30 seconds.",
+    "english_translation": "It is similar to cat dog chips and takes just 30 seconds.",
+    "inference_time": 2.753591775894165
+  },
+  {
+    "id": "34",
+    "chinese": "如果他们有丁点害怕，那么他们也并没有表现出来。",
+    "english_reference": "If they were at all afraid, they didn't show it.",
+    "english_translation": "If they had any kind of fear, they didn’t show it.",
+    "inference_time": 0.7321841716766357
+  },
+  {
+    "id": "35",
+    "chinese": "他漫步在旧城堡的土地和废墟上，与流浪者、园丁，有时候与为他书中绘制插图艺术家聊天。",
+    "english_reference": "He wandered the grounds and the ruins of the old castle, talking to rangers, gardeners and sometimes the artists at work on his book's illustrations.",
+    "english_translation": "He walked through the ruins of old castles and the ruins of his former home, chatting with beggars and gardeners, and sometimes talking to a cartoonist who drew illustrations for his book.",
+    "inference_time": 6.70015287399292
+  },
+  {
+    "id": "36",
+    "chinese": "2017年全年海南接待游客6745万人次，实现旅游总收入811.99亿元，其中入境游客量首次突破百万人次。",
+    "english_reference": "For the whole of 2017, Hainan welcomed 67.45 million tourists, and realized total tourism revenue of RMB81.199 billion. In particular, inbound tourists exceeded 1 million for the first time.",
+    "english_translation": "In 2017, the total number of tourist arrivals in Hainan reached 6745, and the total tourism revenue reached RMB 81.199 billion, marking a breakthrough in the entry of tourists to over a million.",
+    "inference_time": 6.690122365951538
+  },
+  {
+    "id": "37",
+    "chinese": "这部由布莱恩·盖特伍德和亚历山德罗·田中创作的喜剧，被导演里斯·托马斯推上了电视屏幕：这是一部难兄难弟喜剧片，剧情背景设置在 80 年代的罗马尼亚，讲述两名布加勒斯特官员为了真理、无神论和马克思列宁主义路线而奋斗的故事。",
+    "english_reference": "The comedy, created by Brian Gatewood and Alessandro Tanaka, with Rhys Thomas directing, purports to be found TV: a Romanian 1980s buddy-cop drama about two Bucharest officers fighting for truth, atheism and the Marxist-Leninist way.",
+    "english_translation": "This comedy film, written by Brian Goddard and Alexi Danylevich, was promoted to the screen by director Richard Thomas: a tough brother comedy, set in the early 1980s Romania with a story about two Bucharest officials who struggle to achieve truth, atheism, and the路线马克思列宁主义。",
+    "inference_time": 1.7827799320220947
+  },
+  {
+    "id": "38",
+    "chinese": "代表中国致公党第十四届中央委员会作工作报告",
+    "english_reference": "made a working report on behalf of the 14th Central Committee of the China Party for Public Interests.",
+    "english_translation": "Representing the Chinese Communist Party’s Central Committee in its report on the 14th National Congress of the Communist Party of China.",
+    "inference_time": 0.746875524520874
+  },
+  {
+    "id": "39",
+    "chinese": "据外媒报道，美国当地时间7月19日，好莱坞著名导演加里·马歇尔因肺炎并发症在加州伯班克的一家医院里逝世，享年81岁。",
+    "english_reference": "According to foreign media reports, renowned Hollywood director Garry Marshall passed away on July 19 local time of complications from pneumonia at a hospital in Burbank, California. He was 81 years old.",
+    "english_translation": "According to a report from The Hollywood Reporter, American actor Gary Marshall died of pneumonia in the hospital in Berkeley, California, aged 81.",
+    "inference_time": 0.7894287109375
+  },
+  {
+    "id": "40",
+    "chinese": "包括苏宁在内的一些电商物流企业“双11”前推出了可回收重复使用的塑料快递盒、可以重复用作购物袋和垃圾袋的循环包装袋等，但嫌麻烦的消费者接受度并不高。",
+    "english_reference": "Some e-commerce logistics enterprises, including Suning, have introduced plastic express delivery boxes that may be recycled and reused ahead of “Singles’ Day”, as well as recyclable packaging such as shopping bags and trash bags that may be used repeatedly. However, acceptance among consumers who could not be bothered was low.",
+    "english_translation": "Many e-commerce logistics companies, including Shangyin in China, launched reusable plastic boxes and recycling bags that can be used as shopping bags or garbage bags. But the low acceptance rate of many consumers is not high either.",
+    "inference_time": 3.647439956665039
+  },
+  {
+    "id": "41",
+    "chinese": "要求全军和武警部队深入学习领会习近平新时代中国特色社会主义思想，兴起学习宣传贯彻党的十九大精神热潮。",
+    "english_reference": "It demands that the PLA and the Armed Police Force thoroughly study and understand Xi Jinping's socialism with Chinese characteristics in the new era and raise the spirit of learning, propaganda, and implementation of the 19th National Congress.",
+    "english_translation": "Call for full mobilization and commitment of all military and police forces to study and absorb the spirit of Communist Party leadership, leading up to a comprehensive and deep learning campaign on the new era of socialism with Chinese characteristics.",
+    "inference_time": 1.1619055271148682
+  },
+  {
+    "id": "42",
+    "chinese": "当然，这不是米勒和特朗普曾想要承认的观点。",
+    "english_reference": "And of course, this is not the perspective Miller and Trump want ever to recognise.",
+    "english_translation": "Of course, that’s not what Mitch McConnell and Trump originally wanted to acknowledge.",
+    "inference_time": 0.44944095611572266
+  },
+  {
+    "id": "43",
+    "chinese": "当地时间十二月一号，国务院总理李克强在索契分别会见俄罗斯总理梅德韦杰夫、吉尔吉斯斯坦总理伊萨科夫。",
+    "english_reference": "On December 1 local time, Premier Li Keqiang met with Russian Prime Minister Medvedev, Prime Minister of Kyrgyzstan Isakov,",
+    "english_translation": "On December 1st, Prime Minister Li Keqiang met with Russian President Vladimir Putin and Uzbekistan's Prime Minister Shavkat Mirziyoyev in Sochi.",
+    "inference_time": 0.9480340480804443
+  },
+  {
+    "id": "44",
+    "chinese": "然而，中央公园的旋转木马仍然是一个魔幻般的体验，对于两个 2 岁的孩子，一个11岁的孩子，和四个 40 来岁的两个女孩都可以参加的活动来说，每个人都玩得很开心。",
+    "english_reference": "The Central Park carousel, however, is still a weirdly magical experience, to the extent that two two-year-olds, an 11-year-old and two women in their 40s can go on it and all have a great time.",
+    "english_translation": "However, Central Park’s carousel remains a fantastical experience for two-year-olds, one year old and four adults. All can enjoy it.",
+    "inference_time": 1.5164883136749268
+  },
+  {
+    "id": "45",
+    "chinese": "对此，专家建议，要采取有效措施鼓励企业创新，高校及科研院所的科技成果也要及时向企业“转移”。",
+    "english_reference": "As regards this, experts advised that effective measures should be adopted to incentivize enterprises to innovate. The technical outcomes of Institutions of higher learning and technological research institutes should also be promptly “transferred” to enterprises.",
+    "english_translation": "For this, experts suggest taking effective measures to encourage innovation in the private sector, while universities and research institutions should also promptly transfer their own technological achievements.",
+    "inference_time": 0.7903358936309814
+  },
+  {
+    "id": "46",
+    "chinese": "非常的便捷，能够让那个全国的广大党员干部群众在第一时间可以阅读到我们的最权威的读本，我们的报告和我们的辅导材料。",
+    "english_reference": "Through the mobile App, the broad party members, cadres, and masse around the country can have access to our most authoritative readings, reports and related references up to the minute.",
+    "english_translation": "It is very convenient. It allows the entire country’s large cadre of党员干部群众 to access our most authoritative books and materials in a few seconds, and also helps us to communicate with our advisors.",
+    "inference_time": 4.753573179244995
+  },
+  {
+    "id": "47",
+    "chinese": "在等待上诉期间，卡特获准保持人身自由。",
+    "english_reference": "Carter was allowed to remain free pending an appeal.",
+    "english_translation": "During the appeal period, Carter was granted liberty of movement.",
+    "inference_time": 0.738347053527832
+  },
+  {
+    "id": "48",
+    "chinese": "莱塞姆自 2007 年起一直担任西北大学微生物学和免疫学副教授。",
+    "english_reference": "Lathem has been an associate professor of microbiology and immunology at Northwestern University since 2007.",
+    "english_translation": "Leesman has held the position of Professor of Microbiology and Immunology at the Northwest University since 2007.",
+    "inference_time": 1.269850730895996
+  },
+  {
+    "id": "49",
+    "chinese": "瓦尔迪兹 50 岁了。",
+    "english_reference": "Valdez was 50 years old.",
+    "english_translation": "Vidalieri is 50 years old.",
+    "inference_time": 2.8920891284942627
+  },
+  {
+    "id": "50",
+    "chinese": "第六，系牢人文交流合作纽带。",
+    "english_reference": "Sixth, ties of cultural exchanges and cooperation are to be tightened.",
+    "english_translation": "Sixth, cement the human capital exchange rope.",
+    "inference_time": 0.6139707565307617
+  },
+  {
+    "id": "51",
+    "chinese": "做出了部署",
+    "english_reference": "and made the arrangement.",
+    "english_translation": "Made a deployment.",
+    "inference_time": 0.13610363006591797
+  },
+  {
+    "id": "52",
+    "chinese": "之后，观众坐下来与演员共进晚餐。",
+    "english_reference": "Later, the audience sits down to dinner with the actors.",
+    "english_translation": "Afterward, viewers gather to eat dinner with the actors.",
+    "inference_time": 0.33911943435668945
+  },
+  {
+    "id": "53",
+    "chinese": "普罗旺斯薰衣草受到气候变化的威胁",
+    "english_reference": "Provence lavender under threat from climate change",
+    "english_translation": "The lavender of Provence is facing climate change’s threats.",
+    "inference_time": 0.3375587463378906
+  },
+  {
+    "id": "54",
+    "chinese": "中新社记者何蓬磊摄近十几年来，随着珠峰登山探险者和旅游者急剧增加，山峰所在地的环保问题日益凸显。",
+    "english_reference": "China News Service/He Penglei: In the last 10 years or so, environmental protection issues at Mount Everest have become increasingly prominent as the number of Mount Everest explorers and tourists increased significantly.",
+    "english_translation": "More than a decade after the peak of mountaineering and tourist activity in the region, environmental problems are becoming increasingly acute.",
+    "inference_time": 1.9778215885162354
+  },
+  {
+    "id": "55",
+    "chinese": "美国人都爱华盛顿，但不久之后，各大报纸就开始猛烈抨击他的一切，从国内政策到政治原则，一个都不放过。",
+    "english_reference": "Americans loved George Washington, but it didn't take long for newspapers to start slamming him on everything from domestic policy to his political principles.",
+    "english_translation": "Americans love Washington, but soon after that, major newspapers began to attack him on all fronts, from domestic policies to political principles. No one was spared.",
+    "inference_time": 0.818805456161499
+  },
+  {
+    "id": "56",
+    "chinese": "和全面战略协作伙伴",
+    "english_reference": "and strategic cooperation partner.",
+    "english_translation": "And the full-scale strategic partnership partners.",
+    "inference_time": 0.23324155807495117
+  },
+  {
+    "id": "57",
+    "chinese": "韦德·马尔鲍担任格林的联合导演。",
+    "english_reference": "Wade Marbaugh serves as Greene's co-director.",
+    "english_translation": "Warwick Marbury serves as the joint director of Green.",
+    "inference_time": 0.34334230422973633
+  },
+  {
+    "id": "58",
+    "chinese": "坚决打好污染防治攻坚战。",
+    "english_reference": "and push hard to ensure success in pollution prevention and control.",
+    "english_translation": "Fight for a clean development.",
+    "inference_time": 6.433629989624023
+  },
+  {
+    "id": "59",
+    "chinese": "走进广安会展中心，会场没有标语，没有茶杯，甚至连一瓶普通的矿泉水都没有。",
+    "english_reference": "On entering GuangAn International Convention and Exhibition Center, slogans were absent from the venue, and there were no tea cups; not even a bottle of mineral water was present.",
+    "english_translation": "As you enter the Guang'an Convention Center, there is no banner or cup, and even a bottle of ordinary water is not available.",
+    "inference_time": 0.7055275440216064
+  },
+  {
+    "id": "60",
+    "chinese": "巴黎圣日尔曼足球俱乐部预计内马尔的加盟将为赞助活动，特许经营和球衣销售带来福音。",
+    "english_reference": "PSG expects Neymar's arrival to be a boon for sponsorship deals, merchandising and jersey sales.",
+    "english_translation": "Paris Saint-Germain Football Club expects Neymar to bring in a lot of sponsorships, franchise and ball shirts to its activities.",
+    "inference_time": 0.7145202159881592
+  },
+  {
+    "id": "61",
+    "chinese": "如果你有训练录像带，也相当不错。",
+    "english_reference": "If you have videotape of a practice, it's a pretty good deal.",
+    "english_translation": "If you have training videos, it’s pretty good.",
+    "inference_time": 0.31266331672668457
+  },
+  {
+    "id": "62",
+    "chinese": "为了找到生还艇员，救援时间已经延长了两倍多。",
+    "english_reference": "The rescue timetable has been extended more than twice to locate survivors.",
+    "english_translation": "To find survivors, rescue efforts have already taken twice as long.",
+    "inference_time": 6.585444450378418
+  },
+  {
+    "id": "63",
+    "chinese": "5 月 15 日早晨，瓦尔迪兹离开首府库利亚坎的《Riodoce》办公室。",
+    "english_reference": "On the morning of May 15, Valdez left the Riodoce office in the state capital of Culiacan.",
+    "english_translation": "On May 15th, Valdiiz left the office of the first capital of the city of Cuiàxiān.",
+    "inference_time": 6.416297197341919
+  },
+  {
+    "id": "64",
+    "chinese": "说明大数据是我们创新的基础和源泉，那么将来的话我们是希望能够有效推动像这个人功智能生命数据信息产业的一个整合。",
+    "english_reference": "This means that big data is the foundation and source of our innovation. In the future, we hope to effectively promote this integration of smart, personal life data and the information industry.",
+    "english_translation": "Data is our foundational and source of inspiration. And in the future, we hope to effectively integrate this into the life data industry.",
+    "inference_time": 0.6886465549468994
+  },
+  {
+    "id": "65",
+    "chinese": "这是德国二战后首次有极右翼政党进入联邦议院。",
+    "english_reference": "This is the first time that Germany had a far-right political party entering the federation after World War II.",
+    "english_translation": "This was the first time since World War II that a right-wing party entered the Federal Assembly.",
+    "inference_time": 6.4656500816345215
+  },
+  {
+    "id": "66",
+    "chinese": "近日，住建部会同人民银行、银监会联合部署规范购房融资行为，加强房地产领域反洗钱工作。",
+    "english_reference": "In recent days, the Ministry of Housing and Urban-Rural Development, together with the People's Bank of China and the China Banking Regulatory Commission, have jointly made arrangement for regulating the home financing, in a bid to intensify the anti-money laundry effort in real estate industry.",
+    "english_translation": "In recent days, the National Development and Reform Commission and the People’s Bank of China, the Central Bank, and other relevant departments have jointly undertaken a series of measures to regulate the financing of real estate by banks. Strengthening efforts are being made to strengthen anti-money laundering work in the housing market.",
+    "inference_time": 1.5457165241241455
+  },
+  {
+    "id": "67",
+    "chinese": "WADA 路线图在这方面进行了更新，”穆特科周四表示。",
+    "english_reference": "The WADA roadmap was updated in this regard,\" Mutko stated on Thursday.",
+    "english_translation": "Muqdisho noted that WADA is updating its strategy here. “Muqdisho said. ”",
+    "inference_time": 2.1992669105529785
+  },
+  {
+    "id": "68",
+    "chinese": "那件作品中，她使用从烟蒂和口香糖中等法院物证,从碎屑中提取到的 DNA，创建可能相似长相的 3D 人物肖像。",
+    "english_reference": "In it, the artist produced portraits of strangers from forensic artifacts like cigarette butts and chewing gum, extracting DNA from the detritus to conjure an image of what these folks might look like.",
+    "english_translation": "She used DNA extracted from cigarette and gum fragments that were found in the case , created a similar face model by extracting DNA from pieces of ash.",
+    "inference_time": 0.7705321311950684
+  },
+  {
+    "id": "69",
+    "chinese": "当然如此高端大气上档次的产品售价自然也是不菲，500万日元大概相当于25万人民币，买辆车都够了。",
+    "english_reference": "Naturally, such a high-end, classy, top-grade product comes with a hefty price tag as well. At JPY5 million, equivalent to approximately RMB250,000, it would be enough to buy a car.",
+    "english_translation": "Of course, such high-end and sophisticated products are expensive as well. At 500 million yen per unit, it's not uncommon to be able to buy a car for that amount. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+    "inference_time": 6.381767988204956
+  },
+  {
+    "id": "70",
+    "chinese": "习近平指出，军队是要准备打仗的，军委必须懂打仗、善谋略、会指挥。",
+    "english_reference": "Xi Jinping pointed out that the military must prepare for a war, and that the Central Military Commission must understand how to fight with good plan and commanding in the war.",
+    "english_translation": "Xu Jinping said that the armed forces should be prepared to fight, and the Central Military Commission must know how to command, plan and lead.",
+    "inference_time": 0.765082836151123
+  }
+]
